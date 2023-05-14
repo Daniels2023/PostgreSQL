@@ -5,22 +5,22 @@ For this project I have worked with basic concepts of data modeling, data engine
 
 ## Data Modeling:
 
-It was created an ERD - Entity Relationship Diagram of the company with all tables and relationships.
+It was created an ERD - Entity Relationship Diagram of the company with all the tables and their relationships.
 
 ![Entity Relationship Diagram](https://github.com/Daniels2023/sql-challenge/assets/124798004/d563afa4-067d-4d90-8c7b-1327f4deeb01)
 
 
 ## Data Engineering:
 
-All the csv's files was imported with their correspondent tables and data types, primary keys, foreing keys, etc..
-It was necessary to format the data style to YYYY-MM-DD in order to import to PostgreSQL. For that I used Pandas as we can see in the image below:
+All the csv's files was imported into their corresponding tables. I defined primary keys, foreing keys, and data types for each table.
+Additionally, I had to format the data style to YYYY-MM-DD before importing it into PostgreSQL. For this, I used Pandas, as shown in the image below:
 
 ![image](https://github.com/Daniels2023/sql-challenge/assets/124798004/aa790e7b-9aa1-4cd9-8da7-db56e60b108b)
 
 
 ## Data Analysis:
 
-It was answered all the questions below:
+It was analyzed the data and answered the following questions:
 
 **1. List the employee number, last name, first name, sex, and salary of each employee.**
 
